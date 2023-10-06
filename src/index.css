@@ -1,0 +1,23 @@
+.light .text-center {
+  color: black;
+  background-color: white;
+}
+.dark .text-center {
+  color: white;
+  background-color: black;
+}
+
+.dark {
+  background-color: black;
+}
+
+.dark .my-3 .card {
+  background-color: black;
+}
+.dark .my-3 .card .card-body .card-title {
+  color: white;
+}
+
+.dark .my-3 .card .card-body .card-text {
+  color: white;
+}
